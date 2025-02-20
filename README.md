@@ -19,10 +19,10 @@ This will install all the libraries needed to run the project.
 
 2. Navigate into the project directory:
 
-  cd Loan_credit_default
+   cd Loan_credit_default
 
 3. Install the required dependencies:
 
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Run the code to make predictions for loan defaults: You can run the main script or specific notebooks to test and train the model.
