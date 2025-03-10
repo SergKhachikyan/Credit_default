@@ -14,15 +14,15 @@ This will install all the libraries needed to run the project.
 ## How to Run the Code
 
 1. Clone the repository to your local machine:
-   
+   ```sh
    git clone https://github.com/SergKhachikyan/Credit_default.git
-
+   ```
 2. Navigate into the project directory:
-
+   ```sh
    cd Loan_credit_default
-
+   ```
 3. Install the required dependencies:
-
+   ```sh
    pip install -r requirements.txt
-
+   ```
 4. Run the code to make predictions for loan defaults: You can run the main script or specific notebooks to test and train the model.
