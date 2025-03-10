@@ -26,3 +26,6 @@ This will install all the libraries needed to run the project.
    pip install -r requirements.txt
    ```
 4. Run the code to make predictions for loan defaults: You can run the main script or specific notebooks to test and train the model.
+   ```sh
+   python.exe credit_default.ipynb
+   ```
